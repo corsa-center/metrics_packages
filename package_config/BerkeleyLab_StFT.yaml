@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "StFT"
+description: "Spatio-temporal Fourier Transformer for Long Term Dynamics Prediction"
+repo_type: github
+repo_url: "https://github.com/BerkeleyLab/StFT"
+default_branch: "main"
+primary_language: "Python"
+
+# Optional fields
+homepage: "https://openreview.net/pdf?id=o9Cb0ri2oW"

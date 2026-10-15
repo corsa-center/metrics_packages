@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "libensemble"
+description: "A Python toolkit for coordinating asynchronous and dynamic ensembles of calculations."
+repo_type: github
+repo_url: "https://github.com/Libensemble/libensemble"
+default_branch: "main"
+primary_language: "Python"
+
+# Optional fields
+homepage: "https://libensemble.readthedocs.io/"

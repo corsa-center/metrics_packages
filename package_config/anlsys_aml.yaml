@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "aml"
+description: "Building Blocks for Explicit Memory Management on Complex Architectures"
+repo_type: github
+repo_url: "https://github.com/anlsys/aml"
+default_branch: "master"
+primary_language: "C"
+
+# Optional fields
+homepage: "https://argo-aml.readthedocs.io/"

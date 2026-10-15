@@ -1,0 +1,12 @@
+schema: 1
+published: false
+name: "ADIOS2"
+description: "Next generation of ADIOS developed in the Exascale Computing Program"
+repo_type: github
+repo_url: "https://github.com/ornladios/ADIOS2"
+default_branch: "master"
+primary_language: "C++"
+
+# Optional fields
+cdash: "https://open.cdash.org/index.php?project=ADIOS"
+homepage: "https://adios2.readthedocs.io/en/latest/index.html"

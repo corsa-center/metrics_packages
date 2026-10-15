@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "pytuq"
+description: "Python Toolkit for Uncertainty Quantification"
+repo_type: github
+repo_url: "https://github.com/sandialabs/pytuq"
+default_branch: "main"
+primary_language: "Python"
+
+# Optional fields
+homepage: "https://sandialabs.github.io/pytuq/"

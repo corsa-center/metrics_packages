@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "oineus"
+description: ""
+repo_type: github
+repo_url: "https://github.com/anigmetov/oineus"
+default_branch: "master"
+primary_language: "C++"

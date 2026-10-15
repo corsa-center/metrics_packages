@@ -1,0 +1,12 @@
+schema: 1
+published: false
+name: "ascent"
+description: "A flyweight in situ visualization and analysis runtime for multi-physics HPC simulations"
+repo_type: github
+repo_url: "https://github.com/Alpine-DAV/ascent"
+default_branch: "develop"
+primary_language: "C++"
+
+# Optional fields
+cdash: "https://my.dash.org/index.php?project=AscentParaViewTests"
+homepage: "https://alpine-dav.github.io/ascent/"

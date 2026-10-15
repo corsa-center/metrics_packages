@@ -1,0 +1,12 @@
+schema: 1
+published: false
+name: "Trilinos"
+description: "Primary repository for the Trilinos Project"
+repo_type: github
+repo_url: "https://github.com/trilinos/Trilinos"
+default_branch: "develop"
+primary_language: "C++"
+
+# Optional fields
+cdash: "https://trilinos-cdash.sandia.gov/index.php?project=Trilinos"
+homepage: "https://trilinos.org/"

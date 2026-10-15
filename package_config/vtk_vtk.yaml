@@ -1,0 +1,11 @@
+schema: 1
+published: true
+name: "VTK"
+description: "Visualization Toolkit"
+repo_type: gitlab
+repo_url: "https://gitlab.kitware.com/vtk/vtk"
+default_branch: "master"
+primary_language: "C++"
+
+# Optional fields
+homepage: "https://gitlab.kitware.com/vtk/vtk"

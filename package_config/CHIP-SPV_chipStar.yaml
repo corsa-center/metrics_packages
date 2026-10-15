@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "chipStar"
+description: "chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs."
+repo_type: github
+repo_url: "https://github.com/CHIP-SPV/chipStar"
+default_branch: "main"
+primary_language: "LLVM"

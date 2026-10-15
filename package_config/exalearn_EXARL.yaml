@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "EXARL"
+description: "Scalable Framework for Reinforcement Learning"
+repo_type: github
+repo_url: "https://github.com/exalearn/EXARL"
+default_branch: "master"
+primary_language: "Python"

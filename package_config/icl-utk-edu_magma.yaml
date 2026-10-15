@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "magma"
+description: ""
+repo_type: github
+repo_url: "https://github.com/icl-utk-edu/magma"
+default_branch: "master"
+primary_language: "Fortran"

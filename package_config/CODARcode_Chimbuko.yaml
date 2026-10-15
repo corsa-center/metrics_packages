@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "Chimbuko"
+description: "Performance Analysis Framework for Scientific Workflows for online Data Analysis and Performance Visualization"
+repo_type: github
+repo_url: "https://github.com/CODARcode/Chimbuko"
+default_branch: "master"
+primary_language: "HTML"

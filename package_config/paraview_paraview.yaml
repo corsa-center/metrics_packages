@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "ParaView"
+description: "Parallel Data Analysis and Visualization Application based on VTK."
+repo_type: gitlab
+repo_url: "https://gitlab.kitware.com/paraview/paraview"
+default_branch: "master"
+primary_language: "C++"
+
+# Optional fields
+homepage: "https://gitlab.kitware.com/paraview/paraview"

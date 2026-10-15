@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "julienne"
+description: "A Fortran 2023 correctness-checking framework supporting expressive idioms for writing assertions and tests"
+repo_type: github
+repo_url: "https://github.com/BerkeleyLab/julienne"
+default_branch: "main"
+primary_language: "Fortran"

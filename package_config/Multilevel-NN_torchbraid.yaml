@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "torchbraid"
+description: "A layer-parallel neural network technology built on PyTorch"
+repo_type: github
+repo_url: "https://github.com/Multilevel-NN/torchbraid"
+default_branch: "master"
+primary_language: "Python"

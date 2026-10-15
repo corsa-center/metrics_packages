@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "OpenMP_VV"
+description: "OpenMP Offloading Validation & Verification Suite; Official repository. We have migrated from bitbucket!! For documentation, results, publication and presentations, please check out our website ->"
+repo_type: github
+repo_url: "https://github.com/OpenMP-Validation-and-Verification/OpenMP_VV"
+default_branch: "master"
+primary_language: "C"
+
+# Optional fields
+homepage: "https://crpl.cis.udel.edu/ompvvsollve/"

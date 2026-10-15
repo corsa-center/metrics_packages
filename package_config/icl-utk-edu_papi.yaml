@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "papi"
+description: ""
+repo_type: github
+repo_url: "https://github.com/icl-utk-edu/papi"
+default_branch: "master"
+primary_language: "C"

@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "pylibROM"
+description: "Python interface for libROM, library for reduced order models"
+repo_type: github
+repo_url: "https://github.com/llnl/pylibROM"
+default_branch: "main"
+primary_language: "Python"
+
+# Optional fields
+homepage: "https://www.librom.net"

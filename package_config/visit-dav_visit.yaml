@@ -1,0 +1,12 @@
+schema: 1
+published: false
+name: "visit"
+description: "VisIt - Visualization and Data Analysis for Mesh-based Scientific Data"
+repo_type: github
+repo_url: "https://github.com/visit-dav/visit"
+default_branch: "develop"
+primary_language: "C"
+
+# Optional fields
+cdash: "https://cdash.hpcvis.com/index.php?project=VisIt"
+homepage: "https://visit.llnl.gov"

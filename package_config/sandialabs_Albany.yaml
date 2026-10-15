@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "Albany"
+description: "Sandia National Laboratories' Albany multiphysics code"
+repo_type: github
+repo_url: "https://github.com/sandialabs/Albany"
+default_branch: "master"
+primary_language: "C++"
+
+# Optional fields
+cdash: "https://my.cdash.org/index.php?project=Albany"

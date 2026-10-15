@@ -1,0 +1,8 @@
+schema: 1
+published: true
+name: "viskores"
+description: "A visualization library for many-threaded devices."
+repo_type: github
+repo_url: "https://github.com/Viskores/viskores"
+default_branch: "main"
+primary_language: "C++"

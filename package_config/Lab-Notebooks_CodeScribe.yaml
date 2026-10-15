@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "CodeScribe"
+description: "AI Agent and CLI for Code Translation and Software Development in Scientific Computing"
+repo_type: github
+repo_url: "https://github.com/Lab-Notebooks/CodeScribe"
+default_branch: "development"
+primary_language: "Python"
+
+# Optional fields
+homepage: "https://arxiv.org/abs/2410.24119"

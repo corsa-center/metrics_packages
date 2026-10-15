@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "dakota"
+description: "The core Dakota project"
+repo_type: github
+repo_url: "https://github.com/snl-dakota/dakota"
+default_branch: "devel"
+primary_language: "C++"

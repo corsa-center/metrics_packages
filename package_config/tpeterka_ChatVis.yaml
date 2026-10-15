@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "ChatVis"
+description: "Scientific visualization agent and benchmark"
+repo_type: github
+repo_url: "https://github.com/tpeterka/ChatVis"
+default_branch: "main"
+primary_language: "Python"

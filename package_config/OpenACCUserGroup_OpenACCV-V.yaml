@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "OpenACCV-V"
+description: "OpenACC Validation and Verification Testsuite repository"
+repo_type: github
+repo_url: "https://github.com/OpenACCUserGroup/OpenACCV-V"
+default_branch: "master"
+primary_language: "Fortran"

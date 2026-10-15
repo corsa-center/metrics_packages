@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "PnetCDF"
+description: "Source code repository of PnetCDF library and utilities"
+repo_type: github
+repo_url: "https://github.com/Parallel-NetCDF/PnetCDF"
+default_branch: "master"
+primary_language: "C"
+
+# Optional fields
+homepage: "https://parallel-netcdf.github.io"

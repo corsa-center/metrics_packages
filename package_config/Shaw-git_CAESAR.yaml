@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "CAESAR"
+description: "A Unified Framework of Foundation and Generative Models for Efficient Compression of Scientific Data"
+repo_type: github
+repo_url: "https://github.com/Shaw-git/CAESAR"
+default_branch: "main"
+primary_language: "Python"

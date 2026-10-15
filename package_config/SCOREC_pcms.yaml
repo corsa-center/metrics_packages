@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "pcms"
+description: "PCMS: Parallel Coupler For Multimodel Simulations"
+repo_type: github
+repo_url: "https://github.com/SCOREC/pcms"
+default_branch: "develop"
+primary_language: "C++"
+
+# Optional fields
+homepage: "https://scorec.github.io/pcms/"

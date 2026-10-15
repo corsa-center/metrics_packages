@@ -1,0 +1,11 @@
+schema: 1
+published: false
+name: "mfem"
+description: "Lightweight, general, scalable C++ library for finite element methods"
+repo_type: github
+repo_url: "https://github.com/mfem/mfem"
+default_branch: "master"
+primary_language: "C++"
+
+# Optional fields
+homepage: "http://mfem.org"

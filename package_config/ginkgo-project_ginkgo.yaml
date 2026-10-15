@@ -1,0 +1,12 @@
+schema: 1
+published: false
+name: "ginkgo"
+description: "Numerical linear algebra software package"
+repo_type: github
+repo_url: "https://github.com/ginkgo-project/ginkgo"
+default_branch: "develop"
+primary_language: "C++"
+
+# Optional fields
+cdash: "https://my.cdash.org/index.php?project=Ginkgo%20Project"
+homepage: "https://gko-project.org"

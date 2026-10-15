@@ -1,0 +1,24 @@
+# Mandatory fields
+schema: 1
+published: true
+name: HDF5
+description: "Official HDF5 \u00ae Library Repository"
+repo_type: github
+repo_url: "https://github.com/HDFGroup/hdf5"
+default_branch: develop
+primary_language: C
+
+# Optional fields
+cdash: "https://my.cdash.org/index.php?project=HDF5"
+documentation: "https://support.hdfgroup.org/documentation/"
+homepage: "https://www.hdfgroup.org"
+
+# Per-metric overrides for sub-metrics that are N/A or have known fixed values.
+# Keys are the exact sub-metric labels from the CASS Sustainability Metrics Report v3.
+# Supported values: "N/A", or any descriptive string.
+overrides:
+  "4.2.8":
+    NIH R50 Award Tracking: "N/A"
+  "4.2.9":
+    NIH R50 Award Integration: "N/A"
+    RSE Position Detection: "N/A"

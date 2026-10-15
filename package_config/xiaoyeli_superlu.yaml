@@ -1,0 +1,8 @@
+schema: 1
+published: false
+name: "superlu"
+description: "Supernodal sparse direct solver.  https://portal.nersc.gov/project/sparse/superlu/"
+repo_type: github
+repo_url: "https://github.com/xiaoyeli/superlu"
+default_branch: "master"
+primary_language: "C"
