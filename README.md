@@ -3,6 +3,7 @@ Contains the packages for which metrics are being collected
 
 ## Schema
 
+```
 schema: 1
 published: true|false # optional
 name: string # required, displayed on dashboard
@@ -21,3 +22,4 @@ primary_language: string # optional, overrides repository metadata
 overrides:
   metric:
     sub-metric: "N/A" | string
+```
