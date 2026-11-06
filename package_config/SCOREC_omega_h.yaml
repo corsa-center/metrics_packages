@@ -8,4 +8,5 @@ default_branch: "master"
 primary_language: "C++"
 
 # Optional fields
+cdash: "https://my.cdash.org/index.php?project=SCOREC"
 homepage: "https://scorec.github.io/omega_h/"
