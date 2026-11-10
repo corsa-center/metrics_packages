@@ -11,3 +11,4 @@ primary_language: "C++"
 # Optional fields
 cdash: "https://my.cdash.org/index.php?project=SCOREC"
 homepage: "https://scorec.github.io/pumi-pic/"
+spack_repo: "https://github.com/SCOREC/scorec-spack-packages.git" # recipe is not in Spack's builtin repository
