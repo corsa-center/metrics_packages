@@ -16,6 +16,7 @@ cdash: string # optional, url of cdash dashboard if available
 documentation: string # optional, defaults to repo_url
 homepage: string # optional
 primary_language: string # optional, overrides repository metadata
+spack_repo: string # optional, git URL of the Spack package repository holding this package's recipe, when it is not in Spack's builtin repository (a list is also accepted)
 
 # Per-metric overrides for sub-metrics that are N/A or have known fixed values.
 # Keys are the exact sub-metric labels from the CASS Sustainability Metrics Report v3.
