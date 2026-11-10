@@ -6,6 +6,7 @@ Contains the packages for which metrics are being collected
 ```
 schema: 1
 published: true|false # optional
+password_sha256: string # optional sha256 encoded password used if published is false
 name: string # required, displayed on dashboard
 description: string # optional, if provided will override repository description
 repo_type: github|gitlab # required
