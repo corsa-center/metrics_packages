@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 1b19296b08bedcfe5d5cd0c170948a912a835f55b0def68c5c3472bd38ff645a
 name: "caffeine"
 description: "A parallel runtime library for Fortran compilers"
 repo_type: github

@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 4725e098e8965663bf0ebf67718c0ff9291e9565614480836763a69ad519c5bd
 name: "HPCToolkit"
 description: "HPCToolkit performance tools: measurement and analysis components"
 repo_type: gitlab

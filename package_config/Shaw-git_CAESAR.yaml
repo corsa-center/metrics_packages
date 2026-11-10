@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 46b830418c2e81789099c66a7e735b3756ff0f4f7079c47bb85abe9b1bb2cffe
 name: "CAESAR"
 description: "A Unified Framework of Foundation and Generative Models for Efficient Compression of Scientific Data"
 repo_type: github

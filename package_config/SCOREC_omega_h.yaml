@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 3545850fe6c0f57c0d51aba86bdf22eb2f0bc0ae86c2f00cc342c6af8e0ce458
 name: "omega_h"
 description: "Simplex mesh adaptivity for HPC"
 repo_type: github

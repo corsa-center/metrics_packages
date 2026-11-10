@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 88543c02ddae0c7dbc189a603dc3bc91947a30b136e40c37b6be451a83a39e2e
 name: "OpenACCV-V"
 description: "OpenACC Validation and Verification Testsuite repository"
 repo_type: github

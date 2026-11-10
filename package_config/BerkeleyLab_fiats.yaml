@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: a3e1ca2ff839325bea90109498a0bf79dd4bca195b55c25d2bb99cdf0c09600c
 name: "fiats"
 description: "A deep learning library for use in high-performance computing applications in modern Fortran"
 repo_type: github

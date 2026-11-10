@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 84daff2da0c7272060ef84c825500576766bfcde175bb80b6e5454065253a6b8
 name: "upcxx"
 description: "This is the main repository for the UPC++ v1.0 Library implementation."
 repo_type: github

@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: fbef383894f9f512a7e5fb24d289ec4067fa2f6e918d11bbbb764aad67784328
 name: "papi"
 description: ""
 repo_type: github

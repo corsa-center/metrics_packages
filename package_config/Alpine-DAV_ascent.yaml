@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 69f10a133b7b20e3f66b44cc2899eab7d6a40e70f34bde861d85f18ec74d41ba
 name: "ascent"
 description: "A flyweight in situ visualization and analysis runtime for multi-physics HPC simulations"
 repo_type: github

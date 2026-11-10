@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: d12ff990c8c76a517d1556537f8d9b5a7fb6a9113c03dcf343885ee57aa1c119
 name: "dakota"
 description: "The core Dakota project"
 repo_type: github

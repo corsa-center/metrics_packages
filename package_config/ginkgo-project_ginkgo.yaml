@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 26a697565e44b2ce7ee0828816adcf9645443762b3cd64772b7e50f13cb32538
 name: "ginkgo"
 description: "Numerical linear algebra software package"
 repo_type: github

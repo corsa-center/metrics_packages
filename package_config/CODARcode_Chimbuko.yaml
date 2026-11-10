@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 3e7feafcc200291bf9859db1e5162e593f0ebe06cb3cf9b1d63f2b7aa66ad162
 name: "Chimbuko"
 description: "Performance Analysis Framework for Scientific Workflows for online Data Analysis and Performance Visualization"
 repo_type: github

@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 9b64db4dcb1423f87fb82d025e343f26e6959237b64dcb67cbe3628ce07436cd
 name: "STRUMPACK"
 description: "Structured Matrix Package (LBNL)"
 repo_type: github

@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: c320054626b7db7e13d8a569cec5165ef5915b2f4e2abde7b18209a79c69fd2a
 name: "pumi-pic"
 description: "support libraries for unstructured mesh particle in cell simulations on GPUs and CPUs"
 repo_type: github

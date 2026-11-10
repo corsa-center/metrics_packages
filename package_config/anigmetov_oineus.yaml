@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 7052e30cc9620e92d559dc98e36b2644805d3808bda7bd4040847c234ee3c5ad
 name: "oineus"
 description: ""
 repo_type: github

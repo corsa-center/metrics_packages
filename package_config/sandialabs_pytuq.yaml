@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: f9163e66b157f092c57ac03f55822b6fb2e89fbb40df9706555b4007212a1dab
 name: "pytuq"
 description: "Python Toolkit for Uncertainty Quantification"
 repo_type: github

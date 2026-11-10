@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: f72527dfbb7bd5e76acdf5bd3c248110b7760a9fa07d13f7d20527e80ddf7aaf
 name: "Trilinos"
 description: "Primary repository for the Trilinos Project"
 repo_type: github

@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: d74c90844af6868fdc2af067285d6b8d57bb824de672bc0ec9bad26ac90450fe
 name: "superlu"
 description: "Supernodal sparse direct solver.  https://portal.nersc.gov/project/sparse/superlu/"
 repo_type: github

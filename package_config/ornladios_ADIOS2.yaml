@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 80bc8888ae5f8540ed19bb42be8d0534abb739eb916c45715d965c4ac1e0f279
 name: "ADIOS2"
 description: "Next generation of ADIOS developed in the Exascale Computing Program"
 repo_type: github

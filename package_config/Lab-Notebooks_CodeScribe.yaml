@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 6376fea08d749030aa4129ddc79d66e12dc033b69bd14458702117f01026c183
 name: "CodeScribe"
 description: "AI Agent and CLI for Code Translation and Software Development in Scientific Computing"
 repo_type: github

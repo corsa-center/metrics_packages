@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 3ad79fa62fe9d10795b892271216af1f187fc2605517a61bedf6802ce282f98a
 name: "ChatVis"
 description: "Scientific visualization agent and benchmark"
 repo_type: github

@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 1868e4d3e38765739ace11b72070d83a99496524268ea0c56a70e6a99b6341d0
 name: "tau2"
 description: "TAU Performance System Public Mirror (Updated every night at midnight, USA Pacific Time)"
 repo_type: github

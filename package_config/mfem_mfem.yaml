@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: ec3921f058a58d836f434f6ee6c822d4d89e74d83aaeb667b124d2d00954eb5a
 name: "mfem"
 description: "Lightweight, general, scalable C++ library for finite element methods"
 repo_type: github

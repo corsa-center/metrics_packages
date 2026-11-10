@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 09f35aa749f8afa33858d95c9c772cc8af75991203112386c5891e80495b7510
 name: "superlu_mt"
 description: ""
 repo_type: github

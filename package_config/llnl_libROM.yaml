@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 05166c462b472e7c6c9fe08803d8ef381d73f7ec07ad6eca5964385b5ce46c35
 name: "libROM"
 description: "Data-driven model reduction library with an emphasis on large scale parallelism and linear subspace methods"
 repo_type: github

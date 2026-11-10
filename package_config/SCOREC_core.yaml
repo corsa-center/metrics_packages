@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 5f22405f5a5e9053f205dfe8023c1d69a68bbb0282e11c1cca8e370baa1e3e38
 name: "core"
 description: "parallel finite element unstructured meshes"
 repo_type: github

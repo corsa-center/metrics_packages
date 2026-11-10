@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: af0d87ae551000fd2d232e4327301277b863aae63c686f30a8a93539e24dd3bf
 name: "diy"
 description: "data-parallel out-of-core library"
 repo_type: github

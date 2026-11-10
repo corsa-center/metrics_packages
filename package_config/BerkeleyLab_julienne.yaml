@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: c91a6ab33bf91d597a368c973b9edce933b2bb777d791a30fe3116dbd249066a
 name: "julienne"
 description: "A Fortran 2023 correctness-checking framework supporting expressive idioms for writing assertions and tests"
 repo_type: github

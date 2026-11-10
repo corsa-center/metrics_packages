@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 9ed4ae9fcba8849ab161d0df8b284095a9ed4391ff4c11e0e1f85d08ebff9022
 name: "mpich"
 description: "Official MPICH Repository"
 repo_type: github

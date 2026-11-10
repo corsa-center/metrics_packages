@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 7261c6364c4d5b97b4b87b1db158abd50ff66d4420534dfdf496584ba1a5feb5
 name: "Empirical-Roofline-Toolkit"
 description: "Forked from https://bitbucket.org/berkeleylab/cs-roofline-toolkit/src/master/"
 repo_type: github

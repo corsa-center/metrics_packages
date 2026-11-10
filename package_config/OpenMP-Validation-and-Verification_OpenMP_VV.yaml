@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 8c431fffd29c8e76c35166ca1edde157225fb67b04bcbbf5a701229227885c33
 name: "OpenMP_VV"
 description: "OpenMP Offloading Validation & Verification Suite; Official repository. We have migrated from bitbucket!! For documentation, results, publication and presentations, please check out our website ->"
 repo_type: github

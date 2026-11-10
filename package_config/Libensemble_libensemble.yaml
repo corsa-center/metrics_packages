@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 2e58ff6147ea5e834cc1ee6e214c5d8fa27c2f7c9e091607c132863eb3a975f3
 name: "libensemble"
 description: "A Python toolkit for coordinating asynchronous and dynamic ensembles of calculations."
 repo_type: github

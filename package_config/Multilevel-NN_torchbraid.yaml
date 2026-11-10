@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: c4d458d16e0d0038c1d9084f4100cfe672d69d38f7f7a501c8eb128552aa1678
 name: "torchbraid"
 description: "A layer-parallel neural network technology built on PyTorch"
 repo_type: github

@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: b55e57301ea55318abc5582b054d09d08d545f615d95493478e7358ccec26f58
 name: "ytopt"
 description: "ytopt: machine-learning-based autotuning and hyperparameter optimization framework using Bayesian Optimization"
 repo_type: github

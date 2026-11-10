@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 2f6cd1d7044d1f3fccecd1d0ed9555d6defd56ba510ba1f5a3c18890809ccf63
 name: "libCEED"
 description: "CEED Library: Code for Efficient Extensible Discretizations"
 repo_type: github

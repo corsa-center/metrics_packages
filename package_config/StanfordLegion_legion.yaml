@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 9d0466d23786581669f7eafcdb57f7d5f75ae61212187f79d7dc37ce5f4b9db1
 name: "legion"
 description: "The Legion Parallel Programming System"
 repo_type: github

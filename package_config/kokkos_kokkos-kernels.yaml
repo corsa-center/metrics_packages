@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: afa004bac1caeddf87f6755efc84218a445c61123a56f15bc22dbe08f64ead1a
 name: "kokkos-kernels"
 description: "Kokkos C++ Performance Portability Programming Ecosystem: Math Kernels - Provides BLAS, Sparse BLAS and Graph Kernels"
 repo_type: github

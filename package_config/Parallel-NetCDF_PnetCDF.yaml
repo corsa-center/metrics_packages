@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: c13e215ddf63e8e57351653ee71b301f63ffdf0875cc38019b3d2d104142802e
 name: "PnetCDF"
 description: "Source code repository of PnetCDF library and utilities"
 repo_type: github

@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 0a449bfbdf5735fd01c35055fe68ca6ac14ff5357cffc87250106dac6b7c5680
 name: "petsc"
 description: "PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial differential equations."
 repo_type: gitlab

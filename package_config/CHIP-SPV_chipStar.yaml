@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 1a07d559edb3fd8e7916b532a131cb9a602b51069788708b38a8388fdee843b8
 name: "chipStar"
 description: "chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs."
 repo_type: github

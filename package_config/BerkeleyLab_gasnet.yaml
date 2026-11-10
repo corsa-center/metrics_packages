@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: c68163f48e1b7b456fdaf287804c5cb00b45c07b5bda5e1b8be3c897d0018088
 name: "gasnet"
 description: "The main repository for the GASNet/GASNet-EX communication library"
 repo_type: github

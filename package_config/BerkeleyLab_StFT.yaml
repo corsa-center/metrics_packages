@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: e1f12ff8ceeda9f953c9434f9bc9fee3dacc1b2ec4b5860358b12186ad0ca8fe
 name: "StFT"
 description: "Spatio-temporal Fourier Transformer for Long Term Dynamics Prediction"
 repo_type: github

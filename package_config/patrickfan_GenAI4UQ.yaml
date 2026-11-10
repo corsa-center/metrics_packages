@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: cb82ef7f7e2a4d35778d5d8f5c3799f08b7db0445559a42b931f8c3a86a453e4
 name: "GenAI4UQ"
 description: ""
 repo_type: github

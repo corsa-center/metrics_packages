@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 56fd4c2a8b36df481b42cbeeb236f1ffc24d11b57e3c3e097b0a7785206ea35d
 name: "pcms"
 description: "PCMS: Parallel Coupler For Multimodel Simulations"
 repo_type: github

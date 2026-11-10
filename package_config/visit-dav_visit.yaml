@@ -1,5 +1,6 @@
 schema: 1
 published: false
+password_sha256: 254cbc2a681fd3d7937ce58a5d765891b2b83e62de00aa75a1f6ed86f3018413
 name: "visit"
 description: "VisIt - Visualization and Data Analysis for Mesh-based Scientific Data"
 repo_type: github
