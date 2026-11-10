@@ -1,0 +1,23 @@
+README.md
+  s_4e3949389844f1::t_a84e5c0c39335e 19
+package_config/SCOREC_pcms.yaml
+  s_4e3949389844f1::t_3a5cbd9ff9c926 14
+package_config/SCOREC_pumi-pic.yaml
+  s_4e3949389844f1::t_c5db5ef7e6ba22 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9cf03c4585385c982babe0fca76d19ca659a2519",
+  "prompts": {},
+  "sessions": {
+    "s_4e3949389844f1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ceb7fc8f-5133-4c4b-ba7b-566881c935ea",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "M. Scot Breitenfeld <brtnfld@hdfgroup.org>"
+    }
+  }
+}
