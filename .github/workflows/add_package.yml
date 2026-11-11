@@ -24,7 +24,7 @@ on:
           - github
           - gitlab
       email_address:
-        description: 'Email address of primary contact (must be a repository contributor)
+        description: 'Email address of primary contact (must be a repository contributor)'
         required: true
         type: string
       published:
