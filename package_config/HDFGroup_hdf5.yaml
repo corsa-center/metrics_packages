@@ -14,11 +14,12 @@ documentation: "https://support.hdfgroup.org/documentation/"
 homepage: "https://www.hdfgroup.org"
 
 # Per-metric overrides for sub-metrics that are N/A or have known fixed values.
-# Keys are the exact sub-metric labels from the CASS Sustainability Metrics Report v3.
+# Keys are metric paths (see METRICS_CATALOG.md in corsa-center/metrics), then the
+# exact sub-metric labels from the CASS Sustainability Metrics Report v3.
 # Supported values: "N/A", or any descriptive string.
 overrides:
-  "4.2.8":
+  ecosystem/financial_sustainability:
     NIH R50 Award Tracking: "N/A"
-  "4.2.9":
+  ecosystem/institutional_support:
     NIH R50 Award Integration: "N/A"
     RSE Position Detection: "N/A"
