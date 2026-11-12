@@ -7,3 +7,6 @@ repo_type: github
 repo_url: "https://github.com/darshan-hpc/darshan"
 default_branch: "main"
 primary_language: "C"
+
+# Optional fields
+spack_package: "darshan-runtime" # the repository also builds darshan-util, the log-analysis tools
