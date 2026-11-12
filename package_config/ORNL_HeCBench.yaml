@@ -1,5 +1,6 @@
 schema: 1
 published: true
 name: "HeCBench"
+description: "This repository contains a collection of heterogeneous computing benchmarks written with CUDA, HIP, SYCL/DPC++, and OpenMP-4.5 target offloading for studying performance, portability, and productivity."
 repo_type: github
 repo_url: "https://github.com/ORNL/HeCBench"
