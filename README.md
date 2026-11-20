@@ -1,6 +1,14 @@
 # metrics_packages
 Contains the packages for which metrics are being collected
 
+## Adding a package
+
+Use the dashboard's [Add a Package](https://corsa-center.github.io/dashboard/about/add-package/) form, or add a `package_config/<owner>_<repo>.yaml` file by hand, and open a pull request. The [Check package config](.github/workflows/check-package-config.yml) workflow checks the file against the schema below, makes sure the name and repository aren't already listed, and checks that the repository exists and is public. To run the same checks locally:
+
+```
+python3 .github/scripts/check_package_config.py --online package_config/<owner>_<repo>.yaml
+```
+
 ## Schema
 
 ```

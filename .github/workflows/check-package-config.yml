@@ -1,0 +1,46 @@
+# Checks the package files a pull request adds or changes: the schema, a
+# unique name and repository, and that the repository exists and is public.
+# The dashboard's "Add a Package" form opens these pull requests from the
+# submitter's fork, so this runs on pull_request (read-only token, no secrets).
+name: Check package config
+
+on:
+  pull_request:
+    paths:
+      - "package_config/**"
+  # Checks every file, without the online repository check.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Check changed package files
+        if: github.event_name == 'pull_request'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          mapfile -t files < <(git diff --name-only --diff-filter=AMR "$BASE_SHA" HEAD -- package_config/)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No package files added or changed."
+            exit 0
+          fi
+          python .github/scripts/check_package_config.py --online "${files[@]}"
+
+      - name: Check all package files
+        if: github.event_name == 'workflow_dispatch'
+        run: python .github/scripts/check_package_config.py
